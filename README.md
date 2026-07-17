@@ -5,12 +5,6 @@ This project demonstrates an end-to-end pipeline where visual input is processed
 
 ---
 
-## Project Demo
-
-![Robotic Arm](docs/images/hardware_setup.png)
-
----
-
 ## Project Overview
 
 Traditional robotic systems rely on predefined instructions and lack adaptability to dynamic environments.
