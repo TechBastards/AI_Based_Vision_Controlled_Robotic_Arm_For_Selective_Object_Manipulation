@@ -1,4 +1,8 @@
-# AI-Based Vision-Controlled Robotic Arm for Selective Object Manipulation
+<div align="center">
+  <img src="robotic_arm_illustration.jpg" alt="Vision-Controlled Robotic Arm - Computer Vision and Hardware Interaction" width="100%">
+  
+  # AI-Based Vision-Controlled Robotic Arm for Selective Object Manipulation
+</div>
 AI-powered vision-controlled robotic arm capable of real-time object detection, classification, and selective pick-and-place manipulation using computer vision and motion planning. The system integrates deep learning-based perception with precise robotic control to autonomously identify and handle objects in dynamic environments. An intelligent robotic system that integrates **computer vision, deep learning, and embedded systems** to enable **real-time object detection and autonomous pick-and-place operations**.
 
 This project demonstrates an end-to-end pipeline where visual input is processed using AI models, translated into spatial coordinates, and executed through a robotic arm for precise object manipulation.
