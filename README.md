@@ -2,6 +2,19 @@
   <img src="robotic_arm_illustration.jpg" alt="Vision-Controlled Robotic Arm - Computer Vision and Hardware Interaction" width="100%">
   
   # AI-Based Vision-Controlled Robotic Arm for Selective Object Manipulation
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechBastards&repo=AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation&theme=tokyonight&hide_border=true" alt="Robotic Arm Repo Stats" />
+    </a>
+  </p>
 </div>
 AI-powered vision-controlled robotic arm capable of real-time object detection, classification, and selective pick-and-place manipulation using computer vision and motion planning. The system integrates deep learning-based perception with precise robotic control to autonomously identify and handle objects in dynamic environments. An intelligent robotic system that integrates **computer vision, deep learning, and embedded systems** to enable **real-time object detection and autonomous pick-and-place operations**.
 
