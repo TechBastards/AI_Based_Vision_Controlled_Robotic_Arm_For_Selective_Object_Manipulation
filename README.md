@@ -2,6 +2,7 @@
   <img src="robotic_arm_illustration.jpg" alt="Vision-Controlled Robotic Arm - Computer Vision and Hardware Interaction" width="100%">
   
   # AI-Based Vision-Controlled Robotic Arm for Selective Object Manipulation
+  *Developed by Vinayak Sharma for EDEMS Pvt. Ltd.*
   
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
