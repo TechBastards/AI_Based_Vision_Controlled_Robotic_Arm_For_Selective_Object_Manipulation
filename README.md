@@ -132,8 +132,8 @@ AI-Vision-Robotic-Arm/
 ### 1️ Clone the Repository
 
 ```
-git clone https://github.com/vsbeginnere/AI_Object_Manipulation_Arm.git
-cd AI_Object_Manipulation_Arm
+git clone https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation.git
+cd AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation
 ```
 
 ### 2️ Install Dependencies
@@ -199,13 +199,9 @@ arduino/robotic_arm/robotic_arm.ino
 **Vinayak Sharma** &
 **Harsh Singh**
 
-* GitHub (Vinayak Sharma)
-https://github.com/vsbeginner
-* LinkedIn (Vinayak Sharma)
-https://www.linkedin.com/in/vinayak-sharma-24a8aa384/
+* [GitHub (Vinayak Sharma)](https://github.com/TechBastards)
+* [LinkedIn (Vinayak Sharma)](https://www.linkedin.com/in/vinayak-sharma-24a8aa384/)
 
-* GitHub (Harsh Singh)
-https://github.com/Harsh0012-ux
-* LinkedIn (Harsh Singh)
-https://www.linkedin.com/in/harsh-singh-516611295/
+* [GitHub (Harsh Singh)](https://github.com/Harsh0012-ux)
+* [LinkedIn (Harsh Singh)](https://www.linkedin.com/in/harsh-singh-516611295/)
 ---
